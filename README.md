@@ -3,6 +3,10 @@
 
 - 📫 How to reach me **jdognon@gmail.com**
 
+
+
+
+
 <p align="left">
 <a href="https://linkedin.com/in/joan-dognon-4924781a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joan-dognon-4924781a4/" height="30" width="40" /></a>
 </p>
