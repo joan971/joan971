@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joam</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
+- 🌱 I’m currently learning **Angular**
+
 - 🤝 I’m looking for a job as **front developper junior**
+
+- 👨‍💻 All of my projects will be available soon on my porfolio
 
 - 📫 How to reach me **jdognon@gmail.com**
 
